@@ -2,7 +2,7 @@
 
 File Structure should be:
 
-->pyimagesearch
+-> pyimagesearch
   
   -> __init__.py
   
